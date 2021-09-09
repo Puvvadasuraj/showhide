@@ -1,0 +1,41 @@
+.container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+.but {
+  border-width: 0ch;
+  border-radius: 12px;
+  font-weight: bold;
+  padding: 15px;
+  margin: 80px;
+  background-color: white;
+  color: #dd1264;
+}
+
+.box {
+  font-weight: bold;
+  display: block;
+  width: 20vw;
+  margin: 40px;
+  text-align: center;
+  padding: 80px;
+  background-color: #fddddb;
+  border-radius: 12px;
+}
+
+.display {
+  display: flex;
+  flex-direction: row;
+}
